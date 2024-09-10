@@ -1,4 +1,5 @@
 # Object-pick-up-and-rotation
+Tried doing a resident evil style object pick up and rotation system
 Anyone interested in the C# script can reach out to me!
 
 
